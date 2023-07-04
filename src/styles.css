@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.avatar {
+  border-radius: 50%;
+}
+
+.leftcontents {
+  text-align: left;
+}
